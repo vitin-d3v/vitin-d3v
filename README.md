@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🐍 vitDEV
 
-<!--
-**vitin-d3v/vitin-d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `print("Hello, World!")`
 
-Here are some ideas to get you started:
+💻 Explorando o universo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor em aprendizado, apaixonado por tecnologia e principalmente por **Python**.
+
+Gosto de experimentar linguagens, criar projetos e descobrir novas formas de transformar ideias em código.
+
+---
+
+### 🚀 Atualmente explorando
+
+- 🐍 Python e desenvolvimento de APIs
+- ⚗️ Flask e desenvolvimento backend
+- 🌐 HTML e CSS
+- 🧪 Explorando novas linguagens e tecnologias
+
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📂 Meus projetos
+
+> Transformando aprendizado em projetos reais, um commit por vez.
+
+### 🌌 PyNauta
+
+Explorando o universo da programação e compartilhando essa jornada.
+
+▶️ [Visite meu canal no YouTube](https://www.youtube.com/@PyNauta)
+
+---
+
+*“Todo especialista já foi um iniciante.”* 🚀
